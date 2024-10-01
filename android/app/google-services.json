@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327854250979",
+    "project_id": "sehat-18f66",
+    "storage_bucket": "sehat-18f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327854250979:android:5716ebea8c6eae1e559ed6",
+        "android_client_info": {
+          "package_name": "com.sehat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327854250979-n9nhgc8e0i2gtq0kage968t08u2em9nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sehat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "327854250979-s98li6vrke595sgnbdkdrq7gl3hck5tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUC7Zdao5u_9qfxAcDT7Klleq6og2DF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327854250979-s98li6vrke595sgnbdkdrq7gl3hck5tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
